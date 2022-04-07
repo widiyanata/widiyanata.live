@@ -21,6 +21,22 @@ get_header();
                 <p class="lead"><?php bloginfo('description'); ?></p>
             </div>
 
+            <!-- Event -->
+            <div id="events">
+                <div class="row">
+                    <div class="col-md-4 d-flex align-items-center">
+                        <div class="meta-tgl">
+                            30 maret
+                        </div>
+                        <div class="event-text">
+                            <h3>Wisuda</h3>
+                            <p>GSG Universitas Unila</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
             <!-- Sticky Post -->
             <?php if (is_sticky() && is_home() && !is_paged()) : ?>
             <div class="row">
