@@ -30,7 +30,7 @@
     <?php wp_head(); ?>
 </head>
 
-<body <?php body_class("bg-light"); ?>>
+<body <?php body_class("bg-white"); ?>>
 
     <div id="to-top"></div>
 
