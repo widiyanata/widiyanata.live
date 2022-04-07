@@ -23,12 +23,42 @@ get_header();
 
             <!-- Event -->
             <div id="events">
+                <div class="title-event">
+                    <h3>EVENTS</h3>
+                </div>
                 <div class="row">
                     <div class="col-md-4 d-flex align-items-center">
-                        <div class="meta-tgl">
+                        <div class="meta-tgl p-3 m-3 border">
                             30 maret
                         </div>
-                        <div class="event-text">
+                        <div class="event-text p-3">
+                            <h3>Wisuda</h3>
+                            <p>GSG Universitas Unila</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 d-flex align-items-center">
+                        <div class="meta-tgl p-3 m-3 border">
+                            30 maret
+                        </div>
+                        <div class="event-text p-3">
+                            <h3>Wisuda</h3>
+                            <p>GSG Universitas Unila</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 d-flex align-items-center">
+                        <div class="meta-tgl p-3 m-3 border">
+                            30 maret
+                        </div>
+                        <div class="event-text p-3">
+                            <h3>Wisuda</h3>
+                            <p>GSG Universitas Unila</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 d-flex align-items-center">
+                        <div class="meta-tgl p-3 m-3 border">
+                            30 maret
+                        </div>
+                        <div class="event-text p-3">
                             <h3>Wisuda</h3>
                             <p>GSG Universitas Unila</p>
                         </div>

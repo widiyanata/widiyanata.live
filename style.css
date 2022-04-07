@@ -1028,3 +1028,10 @@ https://wordpress.org/support/topic/how-to-stop-wp-from-adding-p-tag-automatical
 p:empty:before {
     content: none;
 }
+
+/* Custom CSS */
+.meta-tgl {
+    width: 80px;
+    text-align: center;
+    font-weight: bold;
+}
