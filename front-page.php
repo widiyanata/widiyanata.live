@@ -29,7 +29,7 @@ get_header();
                 <div class="row">
                     <div class="col-md-4 d-flex align-items-center">
                         <div class="meta-tgl p-3 m-3 border">
-                            <img src="http://placehold.it/80" alt="">
+                            <img src="https://placehold.jp/80" alt="">
                         </div>
                         <div class="event-text p-3">
                             <h3>Wisuda</h3>
@@ -39,7 +39,7 @@ get_header();
                     </div>
                     <div class="col-md-4 d-flex align-items-center">
                         <div class="meta-tgl p-3 m-3 border">
-                            <img src="http://placehold.it/80" alt="">
+                            <img src="https://placehold.jp/80" alt="">
                         </div>
                         <div class="event-text p-3">
                             <h3>Wisuda</h3>
@@ -49,7 +49,7 @@ get_header();
                     </div>
                     <div class="col-md-4 d-flex align-items-center">
                         <div class="meta-tgl p-3 m-3 border">
-                            <img src="http://placehold.it/80" alt="">
+                            <img src="https://placehold.jp/80" alt="">
                         </div>
                         <div class="event-text p-3">
                             <h3>Wisuda</h3>
@@ -59,7 +59,7 @@ get_header();
                     </div>
                     <div class="col-md-4 d-flex align-items-center">
                         <div class="meta-tgl p-3 m-3 border">
-                            <img src="http://placehold.it/80" alt="">
+                            <img src="https://placehold.jp/80" alt="">
                         </div>
                         <div class="event-text p-3">
                             <h3>Wisuda</h3>
